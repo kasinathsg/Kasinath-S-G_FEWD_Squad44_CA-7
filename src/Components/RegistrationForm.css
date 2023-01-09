@@ -1,0 +1,90 @@
+
+
+
+
+
+.registernow {
+  display: flex ;
+  flex-direction: column;
+  align-items: center;
+  max-width: 500px;
+  width: 100%;
+  margin: 100px auto ;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  background-color: white;
+
+}
+.field{
+  border: 1px solid black;
+  display: flex;
+  width: 100%;
+}
+
+#pass{
+height: 1vh;
+margin-top: 0.6rem;
+cursor: pointer;
+margin-right: 5px;
+}
+
+
+.message{
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+form {
+  margin-top: 2rem;
+  width: 84%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  background: #fff;
+}
+.form {
+  width: 100%;
+  text-align: center;
+}
+input {
+padding: 0.7rem;
+width: 100%;
+font-size: x-large;
+border: none;
+height: 26px;
+font-size: 20px;
+text-decoration: st;
+}
+
+
+.button {
+  background: linear-gradient(to right, #33ccff -9%, #ff99cc 79%);
+width: 50vw;
+height: 4vh;
+margin-bottom: 1rem;
+font-weight: bold;
+border: transparent;
+font-size: 20px;
+}
+
+
+
+.button1 {
+  background: linear-gradient(to right, #33ccff -9%, #ff99cc 79%);
+width: 30vw;
+height: 4vh;
+margin-bottom: 1rem;
+font-weight: bold;
+border: transparent;
+font-size: 20px;
+align-items: center;
+}
+
+
+p {
+  color: red;
+  text-align: start;
+}
